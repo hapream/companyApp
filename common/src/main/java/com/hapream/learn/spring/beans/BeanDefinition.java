@@ -2,6 +2,7 @@ package com.hapream.learn.spring.beans;
 
 /**
  * Created by zhangyanggang on 2017/9/8.
+ * bean的容器
  */
 public class BeanDefinition {
     private Object bean;

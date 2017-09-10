@@ -7,6 +7,7 @@ import java.util.Map;
 
 /**
  * Created by zhangyanggang on 2017/9/8.
+ * 加载资源, 解析后 map
  */
 public abstract class AbstractBeanDefinitionReader implements BeanDefinitionReader {
     private Map<String, BeanDefinition> registry;

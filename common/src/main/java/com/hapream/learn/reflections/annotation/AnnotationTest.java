@@ -1,4 +1,4 @@
-package com.hapream.learn.reflections;
+package com.hapream.learn.reflections.annotation;
 
 import lombok.Data;
 
