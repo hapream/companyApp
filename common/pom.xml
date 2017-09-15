@@ -77,6 +77,14 @@
             <version>${junit.version}</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.roaringbitmap/RoaringBitmap -->
+        <dependency>
+            <groupId>org.roaringbitmap</groupId>
+            <artifactId>RoaringBitmap</artifactId>
+            <version>0.6.51</version>
+        </dependency>
+
+
 
     </dependencies>
 </project>
