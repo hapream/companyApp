@@ -3,6 +3,10 @@ import org.apache.spark.{Partitioner, SparkConf, SparkContext}
 import org.junit.{Assert, Before, Test}
 
 
+/**
+  * Map flatMap Filter GroupBy GroupByKey ReduceByKey MapPartitions Sample union join distinct
+  * Cosleace
+  */
 @Test
 class OperationDemo extends Assert with Serializable {
 
